@@ -1,29 +1,17 @@
-# This is a large heading
-## This is a smaller heading
+# My alter-ego
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Geography
+My alter-ego lives in the nothern part of Europe. We have snow in wintertime and lot's of reindeers.
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
+### Reading
 
-Here is `some code` in the middle of a sentence.
+The last books I read was IQ84 by Murakami. It is three books:
 
-```
-This is
-a block
-of code
-```
+1. Book 1
+2. Book 2
+3. Book 3
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Programming languages
+ I prefer working in Python. Now I'm learning to use bash and VBA.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
